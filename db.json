@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sản phẩm 1",
+      "image": "https://picsum.photos/300/300",
+      "price": 100,
+      "quantity": 100,
+      "description": "Sản phầm 1"
+    },
+    {
+      "id": 2,
+      "name": "Sản phẩm 1",
+      "image": "https://picsum.photos/300/300",
+      "price": 100,
+      "quantity": 100,
+      "description": "Sản phầm 1"
+    }
+  ],
+  "users": []
+}
